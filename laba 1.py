@@ -6,7 +6,7 @@ is_open = True
 coords = (50.45, 30.52, 73.28)
 signal = 2 + 3j
 fruits = {"apple", "banana", "orange"}
-student = {"name": "Anna", "age": 17}
+student = {"name": "Serhiy", "age": 17}
 passport_number = None
 
 print(distance)
